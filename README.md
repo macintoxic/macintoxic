@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Charles and I am a passionate software developer. 
+I have been working on non open source companies my entire life, so I can't show you what I am working at here.
+
+I started programming in BASIC, then in Clipper, Visual Basic, Delphi, ABAP, C/C++, PHP, Java until I found the most productive language for me: C#, which I knew in its 1.0 version and never abandoned. Nowadays I'm learning Python to develop artificial intelligence programs.
+
+
+
+
 <!--
 **macintoxic/macintoxic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
